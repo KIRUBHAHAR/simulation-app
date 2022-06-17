@@ -1,0 +1,12 @@
+
+
+
+.icon_style:hover {
+    border-radius: .5rem;
+    background-color: aliceblue !important;
+    color: #1c45ef !important;
+  }
+
+  .icon_style{
+    color: white !important;
+  }
